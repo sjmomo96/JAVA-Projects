@@ -55,7 +55,7 @@ public class About extends javax.swing.JFrame {
         jList2.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
         jList2.setFont(new java.awt.Font("Tahoma", 0, 18)); // NOI18N
         jList2.setModel(new javax.swing.AbstractListModel() {
-            String[] strings = { "Project Name : Trick or Treat", "Language: Java", "Platform: NetBeans IDE 8.0.2", " ", " ", "Author:", "Md. Anisur Rahaman Shuhag ", "ID : 15101094", " ", "University of Asia Pacific", "3rd year 1st Semester" };
+            String[] strings = { "Project Name : Trick or Treat", "Language: Java", "Platform: NetBeans IDE 8.0.2", " ", " ", "Author:", "Salman Jahan Momo", "ID : 15101105", " ", "University of Asia Pacific", "3rd year 1st Semester" };
             public int getSize() { return strings.length; }
             public Object getElementAt(int i) { return strings[i]; }
         });
